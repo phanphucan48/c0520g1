@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\bin\Debug\netcoreapp3.1\TH-menu.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\bin\Debug\netcoreapp3.1\TH-menu.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\bin\Debug\netcoreapp3.1\TH-menu.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\bin\Debug\netcoreapp3.1\TH-menu.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\bin\Debug\netcoreapp3.1\TH-menu.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\bin\Debug\netcoreapp3.1\TH-menu.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-menu\obj\Debug\netcoreapp3.1\TH-menu.genruntimeconfig.cache

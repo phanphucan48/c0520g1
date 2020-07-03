@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\bin\Debug\netcoreapp3.1\TH-can-nang-co-the.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\bin\Debug\netcoreapp3.1\TH-can-nang-co-the.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\bin\Debug\netcoreapp3.1\TH-can-nang-co-the.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\bin\Debug\netcoreapp3.1\TH-can-nang-co-the.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\bin\Debug\netcoreapp3.1\TH-can-nang-co-the.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\bin\Debug\netcoreapp3.1\TH-can-nang-co-the.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-nang-co-the\obj\Debug\netcoreapp3.1\TH-can-nang-co-the.genruntimeconfig.cache

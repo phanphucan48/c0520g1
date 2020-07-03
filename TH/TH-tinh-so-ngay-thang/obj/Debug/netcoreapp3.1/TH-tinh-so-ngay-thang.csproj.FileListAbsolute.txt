@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\bin\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\bin\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\bin\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\bin\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\bin\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\bin\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-tinh-so-ngay-thang\obj\Debug\netcoreapp3.1\TH-tinh-so-ngay-thang.genruntimeconfig.cache

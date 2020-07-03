@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\bin\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\bin\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\bin\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\bin\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\bin\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\bin\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-khai-bao-su-dung-bien\obj\Debug\netcoreapp3.1\TH-khai-bao-su-dung-bien.genruntimeconfig.cache

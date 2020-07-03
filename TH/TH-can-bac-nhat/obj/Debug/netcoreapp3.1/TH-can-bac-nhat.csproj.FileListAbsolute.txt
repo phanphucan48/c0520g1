@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\bin\Debug\netcoreapp3.1\TH-can-bac-nhat.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\bin\Debug\netcoreapp3.1\TH-can-bac-nhat.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\bin\Debug\netcoreapp3.1\TH-can-bac-nhat.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\bin\Debug\netcoreapp3.1\TH-can-bac-nhat.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\bin\Debug\netcoreapp3.1\TH-can-bac-nhat.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\bin\Debug\netcoreapp3.1\TH-can-bac-nhat.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\TH-can-bac-nhat\obj\Debug\netcoreapp3.1\TH-can-bac-nhat.genruntimeconfig.cache
