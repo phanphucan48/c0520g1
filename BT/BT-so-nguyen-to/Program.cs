@@ -6,40 +6,46 @@ namespace BT_so_nguyen_to
     {
         static void Main(string[] args)
         {
-            for (int i = 2; i < 100; i++)
+            int so;
+
+            do
             {
-                if (kiemtrasnt(i))
+                Console.WriteLine("nhap so");
+                so = int.Parse(Console.ReadLine());
+            } while (so < 2);
+
+            int i;
+
+            for (i = 2; i < so; i++)
+            {
+
+                bool check = true;
+                for (int j = 2; j < i; j++)
                 {
-                    Console.Write(i + ";");
-                }
-
-            }
-
-        }
-        public static bool kiemtrasnt(int number)
-        {
-            bool check = true;
-            if (number < 2)
-            {
-                check = false;
-            }
-
-            else
-            {
-                int i = 2;
-
-                while (i <= Math.Sqrt(number))
-                {
-                    if (number % i == 0)
+                    if (i % j == 0)
                     {
                         check = false;
                         break;
                     }
-                    i++;
-                }
 
+                }
+                if (check)
+                {
+                    Console.WriteLine(i);
+                }
             }
-            return check;
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
